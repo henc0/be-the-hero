@@ -14,7 +14,7 @@ Platform:
   win32 x64
 
 Trace: 
-  Error: EPERM: operation not permitted, unlink 'C:\Users\Piwise\Desktop\www\SemanaOmniStack11\Aulas\mobile\node_modules\@babel\generator\node_modules\.bin'
+  Error: EPERM: operation not permitted, unlink 'C:\Users\Piwise\Desktop\www\SemanaOmniStack11\Aulas\mobile\node_modules\@babel\helper-compilation-targets\node_modules\.bin'
 
 npm manifest: 
   {
@@ -34,6 +34,7 @@ npm manifest:
       "expo": "~36.0.0",
       "expo-mail-composer": "~8.0.0",
       "intl": "^1.2.5",
+      "mem": "^6.0.1",
       "react": "~16.9.0",
       "react-dom": "~16.9.0",
       "react-native": "https://github.com/expo/react-native/archive/sdk-36.0.0.tar.gz",
